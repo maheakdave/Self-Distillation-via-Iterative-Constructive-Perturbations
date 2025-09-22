@@ -1,4 +1,4 @@
-# Self-Distillation-via-Iterative-Constructive-Perturbations
+# Self Distillation via Iterative Constructive Perturbations
 Official Repository for the paper ["Self Distillation via Iterative Constructive Perturbations".](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=https%3A%2F%2Farxiv.org%2Fabs%2F2505.14751&btnG=)
 
 
