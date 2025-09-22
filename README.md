@@ -5,3 +5,4 @@ Official Repository for the paper ["Self Distillation via Iterative Constructive
 - This repository contains the official implementation for the extension of the paper. It addresses the reviews recieved from the submission of the paper in ICCV 2025.
 - The code for segmentation and object detection tasks, are still in development and testing phase.
 - This repository does not contain the original code used to produce the results mentioned in the paper.
+- The image classification self distillation comparison is done against the [BYOT](https://arxiv.org/abs/1905.08094) based self distillation scheme.
