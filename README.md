@@ -6,3 +6,5 @@ Official Repository for the paper ["Self Distillation via Iterative Constructive
 - The code for segmentation and object detection tasks, are still in development and testing phase.
 - This repository does not contain the original code used to produce the results mentioned in the paper.
 - The image classification self distillation comparison is done against the [BYOT](https://arxiv.org/abs/1905.08094) based self distillation scheme.
+
+Credits to [Aniket Singh](https://scholar.google.com/citations?user=jRc4FAkAAAAJ&hl=en) for helping with the code.
