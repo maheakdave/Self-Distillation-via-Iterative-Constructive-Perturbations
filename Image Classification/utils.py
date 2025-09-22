@@ -189,7 +189,7 @@ def modify_resnet50(model):
     model.conv1.padding =1
     model.maxpool = nn.Identity()
     return model
-
+#Class definition is dependant on pre-set target-layers
 class ResNetSelfDistillationWrapper(torch.nn.Module):
     def __init__(self,model,target_layers):
         super().__init__()
