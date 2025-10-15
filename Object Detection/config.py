@@ -3,8 +3,8 @@ class Config():
     batch_size = 2
     num_workers = 0
     size = 640,640
-    TRAIN_PATH = ("D:\\COCO\\train2017","D:\\COCO\\annotations\\instances_train2017.json")
-    VAL_PATH =  ("D:\\COCO\\val2017","D:\\COCO\\annotations\\instances_val2017.json")
+    TRAIN_PATH = ("COCO\\train2017","COCO\\annotations\\instances_train2017.json")
+    VAL_PATH =  ("COCO\\val2017","COCO\\annotations\\instances_val2017.json")
 
     out_dir = 'Result_od_decreasing_weights'
     START_EPOCH = 0
